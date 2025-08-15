@@ -1,0 +1,3 @@
+{"timestamp":"2025-08-15T08:53:05.557Z","method":"GET","url":"/about","status":200,"ip":"::1"}
+{"timestamp":"2025-08-15T08:53:05.623Z","method":"GET","url":"/favicon.ico","status":404,"ip":"::1"}
+{"timestamp":"2025-08-15T08:53:09.338Z","method":"GET","url":"/","status":200,"ip":"::1"}
