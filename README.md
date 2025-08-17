@@ -4,8 +4,7 @@ This repository contains a simple, secure HTTPS server built with Node.js. It's 
 
 -----
 <img width="1530" height="446" alt="image" src="https://github.com/user-attachments/assets/cd7059b0-0f5a-4554-afca-48ac664c5d5c" />
-----
-
+-----
 ### Features
 
   * **Secure HTTPS Connection**: The server uses TLSv1.3 and is configured with a self-signed key and certificate for secure communication.
